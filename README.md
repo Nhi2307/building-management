@@ -21,27 +21,12 @@ Môn: Hệ quản trị cơ sở dữ liệu - Đại học Công Thương TP.HC
 Năm học: 2025 - 2026 
 
 ## Cài đặt và chạy dự án
-**Yêu cầu:** Yêu cầu: Visual Studio 2019/2022, SQL Server, SQL Server Management Studio (SSMS)
-
-1. Clone repo về máy git clone 
-
-2. Tạo database
-- Mở SSMS  
-- Tạo database mới (ví dụ: QL_CHUNGCU)  
-- Mở file `database.sql` trong repo  
-- Chạy toàn bộ script để tạo bảng và dữ liệu  
-
-3. 
-- Mở folder `/code` bằng Visual Studio  
-- Cập nhật connection string phù hợp với SQL Server trên máy  
-- Chạy project  
-
 **Yêu cầu:** Visual Studio 2019/2022, SQL Server, SQL Server Management Studio (SSMS)
 
 1. Clone repo về máy git clone https://github.com/Nhi2307/building-management.git
 
 2. Tạo database
-   - Mở SSMS, tạo database mới tên QL
+   - Mở SSMS, tạo database mới tên QL_CHUNGCU
    - Mở file .sql trong repo và chạy toàn bộ để tạo bảng và dữ liệu mẫu
 
 3. Mở và chạy project
